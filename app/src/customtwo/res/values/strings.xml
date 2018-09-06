@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My CustomTwo</string>
+    <string name="title_activity_thrid">ThridActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="secondpage">Hello SecondPage From CustomTwo!</string>
+</resources>

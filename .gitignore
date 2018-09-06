@@ -8,3 +8,7 @@
 /build
 /captures
 .externalNativeBuild
+将删除 libs/
+将删除 src/customthree/res/layout/
+将删除 app/libs/
+将删除 app/src/customthree/res/layout/
